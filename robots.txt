@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://logdeliveryevolution.com.br/sitemap.xml
